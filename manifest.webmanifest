@@ -1,0 +1,12 @@
+{
+  "name": "3地点お天気ナビ",
+  "short_name": "お天気ナビ",
+  "description": "3か所の天気予報をまとめて確認",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#2563eb",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
