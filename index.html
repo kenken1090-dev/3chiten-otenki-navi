@@ -30,29 +30,27 @@
     <section class="settings panel">
       <div class="section-heading">
         <div>
-          <p class="eyebrow">CUSTOMIZE</p>
+          <p class="eyebrow">PLACES</p>
           <h2>表示する場所</h2>
         </div>
-        <button id="settingsToggle" class="text-btn" aria-expanded="false">変更する ＋</button>
+        <button id="settingsToggle" class="text-btn" aria-expanded="false">確認する ＋</button>
       </div>
-      <p class="hint">場所名を検索して、3つの表示地点を変更できます。</p>
+      <p class="hint">表示地点は tenki.jp の市区町村ページに固定されています。</p>
       <div id="settingsBody" hidden>
         <div class="settings-grid">
-          <label>地点 1<input id="place0" autocomplete="off" placeholder="例：八千代市"></label>
-          <label>地点 2<input id="place1" autocomplete="off" placeholder="例：志村坂上"></label>
-          <label>地点 3<input id="place2" autocomplete="off" placeholder="例：京橋 東京"></label>
+          <p>地点 1：八千代市（千葉県）</p>
+          <p>地点 2：志村坂上（東京都板橋区）</p>
+          <p>地点 3：京橋（東京）（東京都中央区）</p>
         </div>
-        <div id="searchResults" class="search-results" hidden></div>
-        <p class="hint">変更したい地点の入力欄を選び、検索結果をタップしてください。</p>
-        <button id="resetBtn" class="secondary-btn">初期設定に戻す</button>
+        <p class="hint">地点を変更したい場合は、リポジトリの places.json に tenki.jp の市区町村ページURLを追加・変更してください。次回の自動取得から反映されます。</p>
       </div>
     </section>
 
     <section class="panel notes">
       <h2>予報について</h2>
-      <p>予報データ：Open-Meteo。日本気象協会（tenki.jp）の予報とは異なる場合があります。</p>
+      <p>予報データ：日本気象協会 tenki.jp。データは GitHub Actions で毎時自動取得し、このページと同じ場所に保存したものを表示しています（リアルタイム取得ではありません）。</p>
       <p>このアプリは個人利用向けの試作品です。天気・防災の重要な判断には、気象庁などの公式情報も確認してください。</p>
-      <p class="credit">Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noreferrer">Open-Meteo</a> · CC BY 4.0</p>
+      <p class="credit">Weather data by <a href="https://tenki.jp/" target="_blank" rel="noreferrer">日本気象協会 tenki.jp</a></p>
     </section>
   </main>
   <footer>3地点お天気ナビ · 無料試作版</footer>
