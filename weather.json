@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:06:58+09:00",
+ "updated": "2026-11-27T20:59:20+09:00",
  "source": "日本気象協会 tenki.jp",
  "sourceUrl": "https://tenki.jp/",
  "places": [
@@ -11,16 +11,16 @@
     "date": "2026-11-27",
     "label": "今日 11月27日",
     "weekday": "金",
-    "telop": "晴のち雨",
+    "telop": "晴のち曇",
     "max": 18,
     "min": 5,
     "precipSlots": [
      null,
-     0,
-     0,
-     60
+     null,
+     null,
+     30
     ],
-    "wind": "南南西 2m/s"
+    "wind": "南西 2m/s"
    },
    "tomorrow": {
     "date": "2026-11-28",
@@ -28,14 +28,14 @@
     "weekday": "土",
     "telop": "雨のち晴",
     "max": 21,
-    "min": 11,
+    "min": 12,
     "precipSlots": [
      100,
      90,
      20,
      40
     ],
-    "wind": "南南西 5m/s"
+    "wind": "南南西 4m/s"
    },
    "hourly": [
     {
@@ -81,7 +81,7 @@
     {
      "hour": 5,
      "weather": "晴れ",
-     "temp": 5.2,
+     "temp": 5.5,
      "prob": null,
      "precip": 0.0,
      "humidity": 94,
@@ -91,7 +91,7 @@
     {
      "hour": 6,
      "weather": "晴れ",
-     "temp": 4.6,
+     "temp": 5.0,
      "prob": null,
      "precip": 0.0,
      "humidity": 95,
@@ -101,7 +101,7 @@
     {
      "hour": 7,
      "weather": "晴れ",
-     "temp": 6.2,
+     "temp": 6.5,
      "prob": null,
      "precip": 0.0,
      "humidity": 95,
@@ -131,48 +131,48 @@
     {
      "hour": 10,
      "weather": "晴れ",
-     "temp": 13.8,
+     "temp": 13.5,
      "prob": null,
      "precip": 0.0,
-     "humidity": 55,
-     "windDir": "北西",
+     "humidity": 60,
+     "windDir": "西",
      "windSpeed": 1.0
     },
     {
      "hour": 11,
      "weather": "晴れ",
-     "temp": 15.3,
-     "prob": 0,
+     "temp": 15.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 47,
-     "windDir": "西",
+     "humidity": 52,
+     "windDir": "南西",
      "windSpeed": 1.0
     },
     {
      "hour": 12,
      "weather": "晴れ",
-     "temp": 17.3,
-     "prob": 0,
+     "temp": 16.5,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 44,
-     "windDir": "南西",
+     "humidity": 46,
+     "windDir": "南南西",
      "windSpeed": 1.0
     },
     {
      "hour": 13,
      "weather": "晴れ",
-     "temp": 17.9,
-     "prob": 0,
+     "temp": 16.5,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 43,
+     "humidity": 42,
      "windDir": "南南西",
-     "windSpeed": 1.0
+     "windSpeed": 2.0
     },
     {
      "hour": 14,
      "weather": "晴れ",
-     "temp": 17.6,
-     "prob": 0,
+     "temp": 17.0,
+     "prob": null,
      "precip": 0.0,
      "humidity": 45,
      "windDir": "南南西",
@@ -181,100 +181,100 @@
     {
      "hour": 15,
      "weather": "晴れ",
-     "temp": 16.4,
-     "prob": 0,
+     "temp": 16.5,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 49,
+     "humidity": 51,
      "windDir": "南南西",
-     "windSpeed": 1.0
+     "windSpeed": 2.0
     },
     {
      "hour": 16,
      "weather": "晴れ",
-     "temp": 15.2,
-     "prob": 0,
+     "temp": 15.5,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 56,
+     "humidity": 57,
      "windDir": "南南西",
      "windSpeed": 1.0
     },
     {
      "hour": 17,
      "weather": "晴れ",
-     "temp": 13.5,
-     "prob": 0,
+     "temp": 13.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 66,
-     "windDir": "南",
+     "humidity": 71,
+     "windDir": "南南東",
      "windSpeed": 1.0
     },
     {
      "hour": 18,
      "weather": "晴れ",
-     "temp": 12.9,
-     "prob": 0,
+     "temp": 12.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 70,
+     "humidity": 78,
      "windDir": "南南東",
      "windSpeed": 1.0
     },
     {
      "hour": 19,
      "weather": "晴れ",
-     "temp": 12.9,
-     "prob": 0,
+     "temp": 11.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 74,
-     "windDir": "南",
-     "windSpeed": 2.0
+     "humidity": 84,
+     "windDir": "南南東",
+     "windSpeed": 1.0
     },
     {
      "hour": 20,
      "weather": "晴れ",
-     "temp": 13.4,
-     "prob": 0,
+     "temp": 11.6,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 77,
-     "windDir": "南南西",
-     "windSpeed": 2.0
+     "humidity": 78,
+     "windDir": "南南東",
+     "windSpeed": 1.0
     },
     {
      "hour": 21,
      "weather": "晴れ",
-     "temp": 14.0,
-     "prob": 0,
+     "temp": 13.0,
+     "prob": 10,
      "precip": 0.0,
-     "humidity": 79,
+     "humidity": 78,
      "windDir": "南南西",
      "windSpeed": 2.0
     },
     {
      "hour": 22,
      "weather": "曇り",
-     "temp": 14.5,
+     "temp": 13.6,
      "prob": 20,
      "precip": 0.0,
-     "humidity": 82,
+     "humidity": 81,
      "windDir": "南南西",
      "windSpeed": 2.0
     },
     {
      "hour": 23,
      "weather": "曇り",
-     "temp": 14.7,
+     "temp": 14.1,
      "prob": 30,
      "precip": 0.0,
-     "humidity": 84,
+     "humidity": 83,
      "windDir": "南西",
      "windSpeed": 2.0
     },
     {
      "hour": 24,
-     "weather": "小雨",
-     "temp": 14.3,
-     "prob": 60,
-     "precip": 0.2,
-     "humidity": 88,
+     "weather": "曇り",
+     "temp": 14.2,
+     "prob": 40,
+     "precip": 0.0,
+     "humidity": 86,
      "windDir": "南西",
      "windSpeed": 2.0
     }
@@ -285,7 +285,7 @@
      "telop": "晴",
      "max": 14,
      "min": 8,
-     "prob": 40
+     "prob": 20
     },
     {
      "dateLabel": "11月30日(月)",
@@ -306,42 +306,42 @@
      "telop": "晴のち曇",
      "max": 19,
      "min": 6,
-     "prob": 40
+     "prob": 30
     },
     {
      "dateLabel": "12月03日(木)",
      "telop": "曇のち晴",
      "max": 19,
-     "min": 9,
+     "min": 10,
      "prob": 30
     },
     {
      "dateLabel": "12月04日(金)",
      "telop": "曇のち晴",
-     "max": 18,
+     "max": 20,
      "min": 8,
      "prob": 30
     },
     {
      "dateLabel": "12月05日(土)",
-     "telop": "曇のち晴",
-     "max": 18,
-     "min": 12,
-     "prob": 40
+     "telop": "曇時々晴",
+     "max": 19,
+     "min": 10,
+     "prob": 30
     },
     {
      "dateLabel": "12月06日(日)",
      "telop": "曇",
-     "max": 14,
-     "min": 9,
+     "max": 15,
+     "min": 10,
      "prob": 40
     },
     {
      "dateLabel": "12月07日(月)",
-     "telop": "曇のち雨",
-     "max": 13,
+     "telop": "曇時々晴",
+     "max": 15,
      "min": 9,
-     "prob": 70
+     "prob": 40
     }
    ]
   },
@@ -353,14 +353,14 @@
     "date": "2026-11-27",
     "label": "今日 11月27日",
     "weekday": "金",
-    "telop": "晴のち雨",
+    "telop": "晴のち曇",
     "max": 18,
     "min": 5,
     "precipSlots": [
      null,
-     0,
-     0,
-     60
+     null,
+     null,
+     30
     ],
     "wind": "南南東 2m/s"
    },
@@ -369,15 +369,15 @@
     "label": "明日 11月28日",
     "weekday": "土",
     "telop": "晴時々雨",
-    "max": 21,
+    "max": 20,
     "min": 9,
     "precipSlots": [
-     100,
-     80,
-     20,
+     90,
+     70,
+     10,
      50
     ],
-    "wind": "南西 3m/s"
+    "wind": "北北西 3m/s"
    },
    "hourly": [
     {
@@ -423,7 +423,7 @@
     {
      "hour": 5,
      "weather": "晴れ",
-     "temp": 5.9,
+     "temp": 6.0,
      "prob": null,
      "precip": 0.0,
      "humidity": 94,
@@ -433,7 +433,7 @@
     {
      "hour": 6,
      "weather": "晴れ",
-     "temp": 5.4,
+     "temp": 5.5,
      "prob": null,
      "precip": 0.0,
      "humidity": 93,
@@ -443,7 +443,7 @@
     {
      "hour": 7,
      "weather": "晴れ",
-     "temp": 5.9,
+     "temp": 6.0,
      "prob": null,
      "precip": 0.0,
      "humidity": 92,
@@ -473,20 +473,20 @@
     {
      "hour": 10,
      "weather": "晴れ",
-     "temp": 13.3,
+     "temp": 13.5,
      "prob": null,
      "precip": 0.0,
-     "humidity": 54,
+     "humidity": 57,
      "windDir": "北北西",
      "windSpeed": 1.0
     },
     {
      "hour": 11,
      "weather": "晴れ",
-     "temp": 14.9,
-     "prob": 0,
+     "temp": 15.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 47,
+     "humidity": 49,
      "windDir": "北",
      "windSpeed": 1.0
     },
@@ -494,106 +494,106 @@
      "hour": 12,
      "weather": "晴れ",
      "temp": 16.0,
-     "prob": 0,
-     "precip": 0.0,
-     "humidity": 43,
-     "windDir": "東南東",
-     "windSpeed": 1.0
-    },
-    {
-     "hour": 13,
-     "weather": "晴れ",
-     "temp": 17.7,
-     "prob": 0,
-     "precip": 0.0,
-     "humidity": 42,
-     "windDir": "南南東",
-     "windSpeed": 1.0
-    },
-    {
-     "hour": 14,
-     "weather": "晴れ",
-     "temp": 18.1,
-     "prob": 0,
+     "prob": null,
      "precip": 0.0,
      "humidity": 44,
      "windDir": "南南東",
      "windSpeed": 1.0
     },
     {
-     "hour": 15,
+     "hour": 13,
      "weather": "晴れ",
-     "temp": 17.1,
-     "prob": 0,
+     "temp": 17.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 48,
+     "humidity": 41,
+     "windDir": "南南東",
+     "windSpeed": 1.0
+    },
+    {
+     "hour": 14,
+     "weather": "晴れ",
+     "temp": 17.0,
+     "prob": null,
+     "precip": 0.0,
+     "humidity": 44,
      "windDir": "南南東",
      "windSpeed": 2.0
     },
     {
+     "hour": 15,
+     "weather": "晴れ",
+     "temp": 16.5,
+     "prob": null,
+     "precip": 0.0,
+     "humidity": 44,
+     "windDir": "南南東",
+     "windSpeed": 1.0
+    },
+    {
      "hour": 16,
      "weather": "晴れ",
-     "temp": 15.1,
-     "prob": 0,
+     "temp": 15.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 54,
+     "humidity": 52,
      "windDir": "南南東",
      "windSpeed": 1.0
     },
     {
      "hour": 17,
      "weather": "晴れ",
-     "temp": 13.7,
-     "prob": 0,
+     "temp": 13.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 62,
+     "humidity": 67,
      "windDir": "南東",
      "windSpeed": 1.0
     },
     {
      "hour": 18,
      "weather": "晴れ",
-     "temp": 13.0,
-     "prob": 0,
+     "temp": 12.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 66,
+     "humidity": 72,
      "windDir": "東南東",
      "windSpeed": 1.0
     },
     {
      "hour": 19,
      "weather": "晴れ",
-     "temp": 12.5,
-     "prob": 0,
+     "temp": 11.5,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 70,
-     "windDir": "南東",
+     "humidity": 83,
+     "windDir": "東",
      "windSpeed": 1.0
     },
     {
      "hour": 20,
      "weather": "晴れ",
-     "temp": 12.1,
-     "prob": 0,
+     "temp": 11.2,
+     "prob": null,
      "precip": 0.0,
      "humidity": 73,
-     "windDir": "南南西",
+     "windDir": "東",
      "windSpeed": 1.0
     },
     {
      "hour": 21,
      "weather": "晴れ",
-     "temp": 11.7,
-     "prob": 0,
+     "temp": 10.8,
+     "prob": 10,
      "precip": 0.0,
-     "humidity": 76,
+     "humidity": 77,
      "windDir": "南西",
      "windSpeed": 1.0
     },
     {
      "hour": 22,
      "weather": "曇り",
-     "temp": 11.2,
+     "temp": 10.6,
      "prob": 20,
      "precip": 0.0,
      "humidity": 79,
@@ -603,20 +603,20 @@
     {
      "hour": 23,
      "weather": "曇り",
-     "temp": 11.2,
+     "temp": 10.9,
      "prob": 30,
      "precip": 0.0,
      "humidity": 78,
-     "windDir": "西",
+     "windDir": "西南西",
      "windSpeed": 1.0
     },
     {
      "hour": 24,
-     "weather": "小雨",
+     "weather": "曇り",
      "temp": 11.2,
-     "prob": 60,
-     "precip": 0.1,
-     "humidity": 80,
+     "prob": 30,
+     "precip": 0.0,
+     "humidity": 76,
      "windDir": "西",
      "windSpeed": 1.0
     }
@@ -634,21 +634,21 @@
      "telop": "晴",
      "max": 15,
      "min": 3,
-     "prob": 10
+     "prob": 0
     },
     {
      "dateLabel": "12月01日(火)",
      "telop": "晴",
      "max": 19,
-     "min": 3,
+     "min": 4,
      "prob": 10
     },
     {
      "dateLabel": "12月02日(水)",
      "telop": "晴のち曇",
-     "max": 18,
+     "max": 19,
      "min": 6,
-     "prob": 40
+     "prob": 30
     },
     {
      "dateLabel": "12月03日(木)",
@@ -659,31 +659,31 @@
     },
     {
      "dateLabel": "12月04日(金)",
-     "telop": "曇のち晴",
-     "max": 17,
+     "telop": "晴時々曇",
+     "max": 20,
      "min": 9,
      "prob": 30
     },
     {
      "dateLabel": "12月05日(土)",
-     "telop": "曇のち晴",
-     "max": 16,
+     "telop": "曇時々晴",
+     "max": 19,
      "min": 11,
-     "prob": 40
+     "prob": 30
     },
     {
      "dateLabel": "12月06日(日)",
-     "telop": "曇時々晴",
-     "max": 13,
-     "min": 9,
+     "telop": "曇",
+     "max": 15,
+     "min": 10,
      "prob": 40
     },
     {
      "dateLabel": "12月07日(月)",
-     "telop": "曇のち雨",
-     "max": 13,
+     "telop": "曇時々晴",
+     "max": 15,
      "min": 9,
-     "prob": 70
+     "prob": 40
     }
    ]
   },
@@ -695,28 +695,28 @@
     "date": "2026-11-27",
     "label": "今日 11月27日",
     "weekday": "金",
-    "telop": "晴のち雨",
-    "max": 18,
+    "telop": "晴のち曇",
+    "max": 17,
     "min": 7,
     "precipSlots": [
      null,
-     0,
-     0,
-     60
+     null,
+     null,
+     30
     ],
-    "wind": "南南西 2m/s"
+    "wind": "南西 2m/s"
    },
    "tomorrow": {
     "date": "2026-11-28",
     "label": "明日 11月28日",
     "weekday": "土",
     "telop": "晴時々雨",
-    "max": 21,
-    "min": 10,
+    "max": 20,
+    "min": 11,
     "precipSlots": [
-     100,
      90,
-     20,
+     80,
+     10,
      50
     ],
     "wind": "南南西 5m/s"
@@ -765,7 +765,7 @@
     {
      "hour": 5,
      "weather": "晴れ",
-     "temp": 7.8,
+     "temp": 8.0,
      "prob": null,
      "precip": 0.0,
      "humidity": 84,
@@ -775,7 +775,7 @@
     {
      "hour": 6,
      "weather": "晴れ",
-     "temp": 6.7,
+     "temp": 7.0,
      "prob": null,
      "precip": 0.0,
      "humidity": 82,
@@ -785,7 +785,7 @@
     {
      "hour": 7,
      "weather": "晴れ",
-     "temp": 7.8,
+     "temp": 8.0,
      "prob": null,
      "precip": 0.0,
      "humidity": 83,
@@ -818,37 +818,37 @@
      "temp": 14.5,
      "prob": null,
      "precip": 0.0,
-     "humidity": 51,
-     "windDir": "北北西",
+     "humidity": 54,
+     "windDir": "北西",
      "windSpeed": 1.0
     },
     {
      "hour": 11,
      "weather": "晴れ",
-     "temp": 16.7,
-     "prob": 0,
+     "temp": 16.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 45,
-     "windDir": "北",
+     "humidity": 47,
+     "windDir": "南南東",
      "windSpeed": 1.0
     },
     {
      "hour": 12,
      "weather": "晴れ",
-     "temp": 17.8,
-     "prob": 0,
+     "temp": 16.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 43,
-     "windDir": "南東",
+     "humidity": 46,
+     "windDir": "南南東",
      "windSpeed": 1.0
     },
     {
      "hour": 13,
      "weather": "晴れ",
-     "temp": 17.6,
-     "prob": 0,
+     "temp": 16.5,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 45,
+     "humidity": 47,
      "windDir": "南南東",
      "windSpeed": 2.0
     },
@@ -856,7 +856,7 @@
      "hour": 14,
      "weather": "晴れ",
      "temp": 16.5,
-     "prob": 0,
+     "prob": null,
      "precip": 0.0,
      "humidity": 50,
      "windDir": "南南東",
@@ -866,7 +866,7 @@
      "hour": 15,
      "weather": "晴れ",
      "temp": 16.0,
-     "prob": 0,
+     "prob": null,
      "precip": 0.0,
      "humidity": 52,
      "windDir": "南",
@@ -875,8 +875,8 @@
     {
      "hour": 16,
      "weather": "晴れ",
-     "temp": 15.5,
-     "prob": 0,
+     "temp": 14.5,
+     "prob": null,
      "precip": 0.0,
      "humidity": 57,
      "windDir": "南",
@@ -885,48 +885,48 @@
     {
      "hour": 17,
      "weather": "晴れ",
-     "temp": 14.6,
-     "prob": 0,
+     "temp": 13.5,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 62,
-     "windDir": "南南東",
-     "windSpeed": 2.0
+     "humidity": 69,
+     "windDir": "南",
+     "windSpeed": 1.0
     },
     {
      "hour": 18,
      "weather": "晴れ",
-     "temp": 14.6,
-     "prob": 0,
+     "temp": 12.5,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 63,
-     "windDir": "南",
-     "windSpeed": 2.0
+     "humidity": 73,
+     "windDir": "南南東",
+     "windSpeed": 1.0
     },
     {
      "hour": 19,
      "weather": "晴れ",
-     "temp": 14.4,
-     "prob": 0,
+     "temp": 13.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 65,
-     "windDir": "南南西",
+     "humidity": 77,
+     "windDir": "南",
      "windSpeed": 2.0
     },
     {
      "hour": 20,
      "weather": "晴れ",
-     "temp": 14.2,
-     "prob": 0,
+     "temp": 13.0,
+     "prob": null,
      "precip": 0.0,
-     "humidity": 70,
+     "humidity": 69,
      "windDir": "南南西",
      "windSpeed": 2.0
     },
     {
      "hour": 21,
      "weather": "晴れ",
-     "temp": 14.0,
-     "prob": 0,
+     "temp": 12.9,
+     "prob": 10,
      "precip": 0.0,
      "humidity": 73,
      "windDir": "南西",
@@ -935,31 +935,31 @@
     {
      "hour": 22,
      "weather": "曇り",
-     "temp": 13.5,
+     "temp": 12.8,
      "prob": 20,
      "precip": 0.0,
-     "humidity": 74,
+     "humidity": 73,
      "windDir": "西南西",
      "windSpeed": 2.0
     },
     {
      "hour": 23,
      "weather": "曇り",
-     "temp": 13.5,
-     "prob": 40,
+     "temp": 13.1,
+     "prob": 30,
      "precip": 0.0,
-     "humidity": 76,
+     "humidity": 74,
      "windDir": "西南西",
      "windSpeed": 2.0
     },
     {
      "hour": 24,
-     "weather": "小雨",
-     "temp": 13.6,
-     "prob": 60,
-     "precip": 0.2,
-     "humidity": 80,
-     "windDir": "南西",
+     "weather": "曇り",
+     "temp": 13.3,
+     "prob": 40,
+     "precip": 0.0,
+     "humidity": 76,
+     "windDir": "西南西",
      "windSpeed": 2.0
     }
    ],
@@ -982,15 +982,15 @@
      "dateLabel": "12月01日(火)",
      "telop": "晴",
      "max": 19,
-     "min": 6,
+     "min": 7,
      "prob": 10
     },
     {
      "dateLabel": "12月02日(水)",
      "telop": "晴のち曇",
-     "max": 18,
+     "max": 19,
      "min": 8,
-     "prob": 40
+     "prob": 30
     },
     {
      "dateLabel": "12月03日(木)",
@@ -1001,29 +1001,29 @@
     },
     {
      "dateLabel": "12月04日(金)",
-     "telop": "曇のち晴",
-     "max": 17,
+     "telop": "晴時々曇",
+     "max": 20,
      "min": 10,
      "prob": 30
     },
     {
      "dateLabel": "12月05日(土)",
-     "telop": "曇のち晴",
-     "max": 17,
-     "min": 12,
-     "prob": 40
+     "telop": "曇時々晴",
+     "max": 19,
+     "min": 11,
+     "prob": 30
     },
     {
      "dateLabel": "12月06日(日)",
      "telop": "曇",
-     "max": 13,
-     "min": 10,
+     "max": 15,
+     "min": 11,
      "prob": 40
     },
     {
      "dateLabel": "12月07日(月)",
-     "telop": "曇のち雨",
-     "max": 13,
+     "telop": "曇一時雨",
+     "max": 15,
      "min": 10,
      "prob": 70
     }
